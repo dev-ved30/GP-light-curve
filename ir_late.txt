@@ -1,0 +1,60 @@
+\begin{table*}{}
+\caption{Literature $R$-band and near-IR photometric data for SN\,2011fe}
+\label{tab:11fe_phot_log_ext}
+\begin{tabular}{@{}lcccccl}
+  \hline
+  MJD&Phase &Telescope&Filter&Magnitude$^{b}$ &Magnitude&Reference\\
+  & (days)$^{a}$ & & & & system &\\
+  \hline
+   
+      $56049.50$&$234.93$&LBT&$J$&$17.18(0.10)$&Vega& \citet{Shappee16}\\
+      $56257.50$&$442.76$&LBT&$J$&$17.42(0.04)$&Vega& \citet{Shappee16}\\
+      $56332.50$&$517.70$&LBT&$J$&$18.23(0.18)$&Vega& \citet{Shappee16}\\
+
+   
+   $56337.48$&$522.67$&LBT&$R$&$22.14(0.02)$&Vega& \citet{Shappee16}\\
+   $56419.46$&$604.59$&LBT&$R$&$21.74(0.03)$&Vega& \citet{Shappee16}\\
+
+  $56440.81$&$625.92$&1m Crimean Astrophysical Observatory&$R$&$22.00(0.12)$&Vega&\citet{Tsvetkov13}\\
+  $56441.84$&$626.95$&1m Crimean Astrophysical Observatory&$R$&$22.07(0.11)$&Vega&\citet{Tsvetkov13}\\
+  
+   $56449.21$&$634.32$&LBT&$R$&$21.91(0.02)$&Vega& \citet{Shappee16}\\
+   $56453.26$&$638.36$&LBT&$R$&$21.95(0.02)$&Vega& \citet{Shappee16}\\
+
+   $56637.53$&$822.48$&LBT&$R$&$23.19(0.04)$&Vega& \citet{Shappee16}\\
+
+  
+  $56743.00$&$927.87$&GMOS North&$r$&$24.01(0.14)$&AB&\citet{Kerzendorf14}\\
+  
+  $56812.35$&$997.17$&LBT&$R$&$24.31(0.08)$&Vega& \citet{Shappee16}\\
+$56837.28$&$1022.08$&LBT&$R$&$24.54(0.08)$&Vega& \citet{Shappee16}\\
+$56839.29$&$1024.08$&LBT&$R$&$24.27(0.06)$&Vega& \citet{Shappee16}\\
+  
+  $56939.00$&$1123.71$&\textit{HST}&F600LP&$24.84(0.02)$&Vega& \citet{Shappee16}\\
+  $56939.00$&$1123.71$&\textit{HST}&F110W&$24.30(0.04)$&Vega& \citet{Shappee16}\\
+  $56939.00$&$1123.71$&\textit{HST}&F160W&$22.37(0.02)$&Vega& \citet{Shappee16}\\
+
+$57041.51$&$1226.14$&LBT&$R$&$25.34(0.20)$&Vega& \citet{Shappee16}\\
+$57071.51$&$1256.11$&LBT&$R$&$25.46(0.14)$&Vega& \citet{Shappee16}\\
+
+  $57118.00$&$1302.57$&\textit{HST}&F600LP&$25.55(0.05)$&Vega&\citet{Shappee16}\\
+  $57118.00$&$1302.57$&\textit{HST}&F110W&$25.28(0.09)$&Vega& \citet{Shappee16}\\
+  $57118.00$&$1302.57$&\textit{HST}&F160W&$23.12(0.02)$&Vega& \citet{Shappee16}\\
+
+$57135.19$&$1319.75$&LBT&$R$&$25.51(0.18)$&Vega& \citet{Shappee16}\\
+$57163.23$&$1347.76$&LBT&$R$&$26.07(0.26)$&Vega& \citet{Shappee16}\\
+
+  $57217.00$&$1401.52$&\textit{HST}&F600LP&$25.82(0.04)$&Vega&\citet{Shappee16}\\
+  $57217.00$&$1401.52$&\textit{HST}&F110W&$25.43(0.10)$&Vega& \citet{Shappee16}\\
+  $57217.00$&$1401.52$&\textit{HST}&F160W&$23.41(0.04)$&Vega& \citet{Shappee16}\\
+
+$57389.53$&$1573.88$&LBT&$R$&$26.39(0.41)$&Vega& \citet{Shappee16}\\
+$57425.49$&$1609.81$&LBT&$R$&$26.24(0.42)$&Vega& \citet{Shappee16}\\
+
+  $57437.50$&$1621.81$&\textit{HST}&F600LP&$26.51(0.09)$&Vega&\citet{Shappee16}\\
+  $57437.50$&$1621.81$&\textit{HST}&F110W&$26.15(0.19)$&Vega& \citet{Shappee16}\\
+  $57437.50$&$1621.81$&\textit{HST}&F160W&$24.09(0.09)$&Vega& \citet{Shappee16}\\
+
+  \hline
+ \end{tabular}
+\end{table*}
